@@ -1,137 +1,131 @@
-# Awesome-Timesheet-Management-Project-Billing
+<div align="center">
+
+<img src="./assets/banner.svg" alt="Awesome Timesheet Management & Project Billing" width="100%">
 
 # Awesome Timesheet Management & Project Billing
 
-> A curated list of top Timesheet Management and Project Billing platforms — both SaaS/Hosted commercial solutions and open-source alternatives for tracking billable hours, managing project profitability, and generating client invoices.  
-> 🌟 Star this repo if you find it useful! 🌟
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Timesheet-Management-Project-Billing/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Timesheet-Management-Project-Billing)
+
+**A comprehensive, SEO-optimized directory of top-tier Timesheet Management, Professional Services Automation (PSA), and Project Billing platforms.**  
+Explore both commercial cloud SaaS powerhouses and privacy-focused, self-hosted open-source alternatives for tracking billable hours, monitoring project profitability, controlling labor budgets, and generating compliant client invoices.
+
+</div>
 
 ---
 
 ## 📋 Table of Contents
 
+- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [Harvest](#harvest)
-  - [BigTime](#bigtime)
-  - [BQE CORE](#bqe-core)
-  - [Replicon](#replicon)
-  - [ClickTime](#clicktime)
-  - [Avaza](#avaza)
-  - [Paymo](#paymo)
-  - [Scoro](#scoro)
-  - [Zoho Timesheet](#zoho-timesheet)
 - [Open-Source Software](#-open-source-software)
-  - [Kimai](#kimai)
-  - [AlgaPSA](#algapsa)
-  - [TimeTracker (DRYTRIX)](#timetracker-drytrix)
-  - [SolidTime](#solidtime)
 - [Comparison at a Glance](#-comparison-at-a-glance)
+- [Feature Evaluation Checklist](#-feature-evaluation-checklist)
 - [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## 📈 Sector Overview & Market Dynamics
+
+The global time-tracking, timesheet management, and project billing software market is valued at approximately **$5.8B to $6.5B** and is projected to surpass **$18B+ to $23B** over the next decade, expanding at a robust CAGR of **13%–15.6%**. 
+
+The sector is **highly fragmented** rather than a winner-take-all monopoly: low barriers to entry have catalyzed hundreds of specialized niche solutions (spanning creative agency trackers, legal compliance timers, and construction GPS field tools), while massive enterprise PSA suites and ERP vendors continuously acquire high-growth players to combat revenue leakage and support hybrid-work labor regulations.
 
 ---
 
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted Timesheet Management and Project Billing platforms. These are not open-source but are included as reference points for feature comparison.
+Below is a breakdown of commercial, cloud-hosted Timesheet Management and Project Billing platforms. The table is ranked by company scale (valuation / annual revenue, descending).
 
-### Harvest
-**Type:** Time tracking with invoicing  
-Harvest is a widely adopted time and materials tool built around structured time entry, project-based reporting, and rate-aware cost tracking [citation:9]. Pricing starts at $9/seat/month on annual plans, with profitability reporting gated to the Enterprise tier at $14/seat [citation:4]. Strengths include straightforward timesheets, approvals, and client project mapping; limitations include limited milestone billing support compared to full PSA suites [citation:9].
-
-### BigTime
-**Type:** Professional services automation (PSA)  
-BigTime provides time tracking, invoicing, expenses, and payments starting at $20/user/month [citation:4]. Project budgeting and custom rate management sit on the Premier tier (quote-only), making the published starting rate incomplete for firms needing phase-level budgeting [citation:4]. Suited for professional services firms wanting an integrated time-to-billing workflow.
-
-### BQE CORE
-**Type:** Project accounting and billing  
-BQE CORE ties time capture to project billing through rate rules and invoice line items, with granular timesheet approval workflows and general ledger mapping [citation:14]. The platform is quote-only, with implementation and training sold separately (e.g., $4,000 combined budgeting package) [citation:4]. Best for firms needing accounting-grade traceability from timesheet to invoice.
-
-### Replicon
-**Type:** Time tracking with PSA  
-Replicon offers time tracking with AI-assisted auto-tracking, GPS, screenshots, and payroll integrations starting at $6/user/month for attendance, with a 10-user minimum [citation:5]. Its Polaris PSA module handles project billing. Positioned for mid-market and enterprise organizations.
-
-### ClickTime
-**Type:** Time tracking with cost reporting  
-ClickTime focuses on the cost side of time: budgets, labor and project costs, and finance-friendly reports starting at ~$12/user/month [citation:10]. Approval workflows and automated time capture are available on the Team plan. A notable gap: client billing is report-based, so a separate invoicing system may still be needed [citation:10].
-
-### Avaza
-**Type:** Projects, time, and invoicing  
-Avaza combines project management, time tracking, expense tracking, and invoicing starting at $11.95/month . Suited for small agencies and studios wanting an all-in-one tool with a free plan to start [citation:6].
-
-### Paymo
-**Type:** Work management with time tracking  
-Paymo provides tasks, time tracking, and invoices starting at $8.95/month/user, with a free plan for one user . Positioned for freelancers and small studios [citation:6].
-
-### Scoro
-**Type:** Professional services automation  
-Scoro unites projects, resources, and finances in one system starting at $19.90/month/user, supporting time & materials, fixed-fee, and retainer billing . Suited for agencies wanting end-to-end visibility from sales funnel to billing [citation:6].
-
-### Zoho Timesheet
-**Type:** Timesheet within Zoho ecosystem  
-Zoho Timesheet provides time tracking, project allocation, and billing integration within the Zoho suite. Suited for organizations already using Zoho Books or Zoho Projects for finance and project management.
+| Platform | Type / Focus | Company Scale (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limits / Free Trial Constraints | Best For |
+|:---|:---|:---|:---|:---|:---|
+| [**Zoho Timesheet**](https://www.zoho.com/projects/timesheet.html) | Project Management & Ecosystem Billing | **~$1.4B–$1.5B ARR** ($10B–$12.5B est. valuation) | **$5/user/month** (Premium tier on Zoho Projects, billed annually) | **Forever-free plan:** Free on Zoho Invoice (up to 3 users, basic time tracking). On Zoho Projects, free plan is limited to 5 users & 3 projects, but timelogs require paid upgrade (10-day free trial on paid plans). | Teams already utilizing Zoho Books or Zoho Projects for accounting |
+| [**Replicon**](https://www.replicon.com/) (Deltek) | Enterprise PSA & Time Intelligence | **$447.5M Acquisition** (Integrated into Deltek / Roper Technologies) | **$6/user/month** (Time & Attendance, min. 10 users; PSA modules from $29/user/month) | **No self-service free tier or open trial:** Evaluation requires a scheduled sales consultation and guided enterprise demo. | Mid-market and large enterprises needing global compliance and payroll integration |
+| [**Harvest**](https://www.getharvest.com/) | Time Tracking & Client Invoicing | **~$120M–$150M ARR** (Private equity backed) | **$10.80/user/month** ($9/user/month billed annually) | **Forever-free plan:** Strictly capped at 1 seat and 2 active projects (no invoice attachments, file imports, or integrations). Offers a 30-day fully featured free trial (no credit card required). | Agencies and consultancies seeking fast time logging and Stripe-integrated invoicing |
+| [**BigTime**](https://www.bigtime.net/) | Professional Services Automation (PSA) | **$100M Growth Round** (Vista Equity Partners, ~$40M–$50M ARR) | **$20/user/month** (Express plan; Premier with custom rates is quote-based) | **No permanent free tier:** Offers no open self-service trial; trial evaluation is arranged via sales-guided demo. | Professional services firms (accounting, legal, consulting) needing PSA workflows |
+| [**BQE CORE**](https://www.bqe.com/) | Project Accounting & Billing Automation | **~$50M–$55M ARR** (Serent Capital backed) | **~$22/user/month** (Modular quote-based pricing; implementation sold separately) | **No permanent free tier:** Offers a 14-day free trial on select modules (no credit card required) or assisted sales walkthrough. | Architecture, engineering, and CPA firms requiring DCAA/audit-compliant job costing |
+| [**Scoro**](https://www.scoro.com/) | End-to-End Work Management & PSA | **~$20M–$23.4M ARR** (~$66M valuation after Series B) | **$26/user/month** ($19.90/user/month billed annually; 5-seat minimum) | **No permanent free tier:** Offers a 14-day fully featured free trial (no credit card required; requires 5-seat minimum on conversion). | Full-service agencies wanting end-to-end pipeline-to-project revenue visibility |
+| [**ClickTime**](https://www.clickTime.com/) | Time Tracking & Labor Cost Analytics | **~$6.5M–$10M ARR** (~$64.7M estimated valuation) | **$13/user/month** ($10/user/month billed annually; Starter tier) | **No permanent free tier:** Provides a 14-day free trial on Starter/Team tiers (no credit card required) with access to core reports. | Organizations focused on tracking project labor costs against fixed operational budgets |
+| [**Paymo**](https://www.paymoapp.com/) | Project Management & Task Timers | **~$2.5M–$3.7M ARR** (Bootstrapped / self-funded) | **$9.95/user/month** ($5.95/user/month billed annually; Starter plan) | **Forever-free plan:** Strictly capped at 1 user, 1 client, 2 active projects, and 1 GB storage (includes unlimited time tracking and invoices). | Solo freelancers and boutique digital studios tracking daily task time |
+| [**Avaza**](https://www.avaza.com/) | All-in-One Projects, Timesheets & Invoicing | **~$2.2M ARR** (Bootstrapped / self-funded) | **$11.95/month base** (Includes 2 time/expense users; $7/month per additional user) | **Forever-free plan:** Limited to 1 timesheet/expense user, 5 active projects, 10 clients, 5 invoices/month, and 100 MB storage. | Small creative studios and remote agencies wanting an all-in-one suite |
 
 ---
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Timesheet Management and Project Billing tools. The open-source ecosystem offers mature time-tracking platforms with invoicing, though dedicated PSA-grade billing is more limited.
+Self-hosted, transparent, and community-driven Timesheet Management and Project Billing systems. Sorted in descending order by GitHub star count.
 
-### Kimai
-**Stack:** PHP / Symfony / MySQL/MariaDB | **License:** AGPL-3.0  
-Kimai is the leading open-source time-tracking application, with 5k+ GitHub stars and active maintenance [citation:2][citation:13]. Features include start/stop timers and manual entry, customer/project/activity management, **invoicing with PDF/CSV/Excel export**, role-based access control (admin, team lead, user), tagging, and a REST API [citation:12]. Supports 30+ languages and a plugin system. Deploys via Docker or on-premise, available as both self-hosted and SaaS [citation:8]. **Trade-off:** Kimai is a time-tracking and invoicing tool, not a full PSA with phase-level project budgeting or resource planning [citation:13].  
-**Best for:** Freelancers, agencies, and teams wanting a proven, self-hosted time tracker with built-in invoicing and no per-seat fees.
-
-### AlgaPSA
-**Stack:** Next.js / PostgreSQL / Redis / Docker | **License:** AGPL-3.0 (Community Edition)  
-AlgaPSA is an open-source MSP Professional Services Automation platform with robust time, contracts, and billing features [citation:1]. Time tracking includes approval workflows, utilization reporting, and automatic interval tracking for ticket work (stored in IndexedDB). Billing supports flexible cycles (weekly/bi-weekly/monthly/quarterly), proration, unapproved time rollover, contract purchase orders, sales quotes with client portal acceptance, and a **graphical invoice/quote designer** for branded PDFs. International tax support covers composite rates and reverse charge scenarios. Workflow automation is handled via a visual designer with an Event Catalog. Deploys via Docker Compose or a turnkey on-premise appliance ISO [citation:1].  
-**Best for:** MSPs and technical teams wanting a comprehensive, self-hosted platform combining ticketing, project management, time tracking, and professional billing in one system.
-
-### TimeTracker (DRYTRIX)
-**Stack:** Python / PostgreSQL/SQLite / Docker | **License:** Open Source  
-TimeTracker is a self-hosted time tracking and invoicing platform positioned as a Toggl/Clockify alternative [citation:7]. Features include persistent server-side timers, projects and tasks, **built-in invoicing** with PDF and Peppol e-invoicing, expense tracking, and unlimited users with no per-user pricing . Deploys via Docker Compose on Linux, macOS, Windows (WSL2), Raspberry Pi, or NAS devices (QNAP, Synology). Analytics are privacy-first and opt-in. **Trade-off:** Less mature than Kimai, with a smaller community and ecosystem.  
-**Best for:** Freelancers and small teams wanting a self-hosted time tracker with invoicing and no user limits, deployable on modest hardware.
-
-### SolidTime
-**Stack:** PHP / Laravel / Vue | **License:** AGPL-3.0  
-SolidTime is a modern open-source time tracking application positioned as a self-hosted Toggl alternative. Features include projects, tasks, clients, billable rates, time entries, and reporting. Deploys via Docker. Suited for freelancers and teams wanting a clean, modern interface with self-hosted control.
+| Software & Repository | GitHub Stars | Stack | Invoicing Support | Project Budgeting & Billing | License | Deployment | Key Highlights |
+|:---|:---:|:---|:---:|:---:|:---|:---|:---|
+| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | [![Stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers) | TypeScript / Electron / Angular | ❌ (Export only) | ⚠️ (Task-level) | MIT | Desktop / Web / Android | Advanced personal and developer time tracker with Jira, GitLab, and OpenProject bi-directional sync. |
+| [**ActivityWatch**](https://github.com/ActivityWatch/activitywatch) | [![Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social&color=white)](https://github.com/ActivityWatch/activitywatch/stargazers) | Python / Rust / Vue | ❌ | ❌ | MPL-2.0 | Native Desktop (Win/macOS/Linux) | Automatic, privacy-first background time logging with local window/browser activity categorization. |
+| [**Invoice Ninja**](https://github.com/invoiceninja/invoiceninja) | [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | PHP (Laravel) / Flutter | ✅ (Multi-gateway, PDF, e-invoicing) | ✅ (Task & project billing) | AGPL-3.0 / Fair Source | Docker / Self-hosted / Cloud | Industry-standard open-source invoice and payment engine with integrated timesheets and client portals. |
+| [**SolidTime**](https://github.com/solidtime-io/solidtime) | [![Stars](https://img.shields.io/github/stars/solidtime-io/solidtime?style=social&color=white)](https://github.com/solidtime-io/solidtime/stargazers) | PHP (Laravel) / Vue 3 / Tailwind | ⚠️ (Billing rates & CSV export) | ✅ (Hourly rates & team budgets) | AGPL-3.0 | Docker Compose | Modern, ultra-clean open-source alternative to Toggl Track and Clockify with multi-org billable rates. |
+| [**Ever Gauzy**](https://github.com/ever-co/ever-gauzy) | [![Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers) | TypeScript / NestJS / Angular | ✅ (Recurring & multi-currency) | ✅ (Full project costing & ERP) | AGPL-3.0 | Docker / Kubernetes / Cloud | Comprehensive business management ERP/HRM with automated employee timelogs, screenshots, and billing. |
+| [**Kimai**](https://github.com/kimai/kimai) | [![Stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers) | PHP (Symfony) / Doctrine / Bootstrap | ✅ (Custom PDF/HTML/Office export) | ✅ (Rate hierarchies & budgets) | AGPL-3.0 | Docker / On-Premise / SaaS | The gold standard of open-source timesheet management with 30+ languages, LDAP/SAML, and extensive REST API. |
+| [**InvoicePlane**](https://github.com/InvoicePlane/InvoicePlane) | [![Stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane?style=social&color=white)](https://github.com/InvoicePlane/InvoicePlane/stargazers) | PHP / MySQL | ✅ (Quotes, invoices, 25+ gateways) | ⚠️ (Basic hourly tracking) | MIT | LAMP / Docker | Veteran self-hosted client billing and quote management system tailored for solo practitioners and SMEs. |
+| [**Timestrap**](https://github.com/overshard/timestrap-django) | [![Stars](https://img.shields.io/github/stars/overshard/timestrap-django?style=social&color=white)](https://github.com/overshard/timestrap-django/stargazers) | Python (Django) / Vue | ✅ (HTML/CSV exports) | ⚠️ (Client rate tracking) | MIT | Docker / Heroku / On-Prem | Lightweight, multi-user web timesheet and invoicing platform with fine-grained team permission controls. |
+| [**TimeTracker (DRYTRIX)**](https://github.com/DRYTRIX/TimeTracker) | [![Stars](https://img.shields.io/github/stars/DRYTRIX/TimeTracker?style=social&color=white)](https://github.com/DRYTRIX/TimeTracker/stargazers) | Python / SQLite / PostgreSQL | ✅ (PDF & Peppol e-invoicing) | ⚠️ (Task billing rates) | GPL-3.0 | Docker / Raspberry Pi / NAS | Privacy-first self-hosted time tracker and e-invoice generator with unlimited users and zero per-seat fees. |
+| [**AlgaPSA**](https://github.com/Nine-Minds/alga-psa) | [![Stars](https://img.shields.io/github/stars/Nine-Minds/alga-psa?style=social&color=white)](https://github.com/Nine-Minds/alga-psa/stargazers) | TypeScript (Next.js) / PostgreSQL / Redis | ✅ (Visual PDF/Quote designer) | ✅ (Contract POs, retainers & SLAs) | AGPL-3.0 (Community) | Docker Compose / ISO | Dedicated open-source PSA designed for MSPs, combining helpdesk tickets, timesheet approvals, and contracts. |
+| [**Cattr**](https://github.com/cattr-app/server-application) | [![Stars](https://img.shields.io/github/stars/cattr-app/server-application?style=social&color=white)](https://github.com/cattr-app/server-application/stargazers) | PHP (Laravel) / Vue / Docker | ⚠️ (Activity reports & API export) | ⚠️ (Project task estimations) | AGPL-3.0 | Docker / Desktop Agent | Self-hosted team tracking engine featuring periodic screen capture, activity heatmaps, and GitLab/Jira sync. |
 
 ---
 
 ## 📊 Comparison at a Glance
 
-| Software | License | Stack | Invoicing | Project Budgeting | Self-Hosted | Best For |
-|----------|---------|-------|-----------|-------------------|-------------|----------|
-| **Harvest** | Proprietary | Cloud | ✅ | (Limited) | ❌ | Time + invoicing |
-| **BigTime** | Proprietary | Cloud | ✅ | ✅ (Premier) | ❌ | Professional services PSA |
-| **BQE CORE** | Proprietary | Cloud | ✅ | ✅ (Accounting-grade) | ❌ | Timesheet-to-invoice traceability |
-| **Replicon** | Proprietary | Cloud | ✅ | ✅ (Polaris) | ❌ | Mid-market/enterprise |
-| **ClickTime** | Proprietary | Cloud | (Report-based) | ✅ (Cost tracking) | ❌ | Cost reporting focus |
-| **Avaza** | Proprietary | Cloud | ✅ | (Check) | ❌ | Small agency all-in-one |
-| **Paymo** | Proprietary | Cloud | ✅ | (Check) | ❌ | Freelancer/small studio |
-| **Scoro** | Proprietary | Cloud | ✅ | ✅ | ❌ | Agency end-to-end |
-| **Kimai** | AGPL-3.0 | PHP/Symfony | ✅ | ❌ | ✅ | Proven OSS time + invoices |
-| **AlgaPSA** | AGPL-3.0 | Next.js/PostgreSQL | ✅ (Designer) | ✅ (Contracts/POs) | ✅ | MSP PSA + ticketing + billing |
-| **TimeTracker** | Open Source | Python/PostgreSQL | ✅ (Peppol) | ❌ | ✅ | Self-hosted Toggl alternative |
-| **SolidTime** | AGPL-3.0 | PHP/Laravel | (Check) | (Check) | ✅ | Modern Toggl alternative |
+A side-by-side capability evaluation between major SaaS systems and self-hosted open-source software:
+
+| Platform | Deployment Model | Built-in Invoicing | Rate Hierarchies | Timesheet Approvals | Budget Tracking | Client Portal |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Harvest** | Cloud SaaS | ✅ Multi-currency | ✅ Person / Task / Project | ✅ Multi-level | ✅ Margin & Burn rate | ✅ Online Pay |
+| **BigTime** | Cloud SaaS | ✅ Custom WIP Billing | ✅ Complex Matrix | ✅ Configurable | ✅ Advanced Gantt / Milestones | ✅ Client Access |
+| **BQE CORE** | Cloud SaaS | ✅ AIA / Progress Billing | ✅ Rate Overrides | ✅ Multi-tier workflows | ✅ Job Costing / GL | ✅ Integrated |
+| **Replicon** | Cloud SaaS | ✅ Polaris PSA | ✅ Role-based global rates | ✅ Audit-trail compliance | ✅ Enterprise Margin | ✅ Enterprise |
+| **ClickTime** | Cloud SaaS | ⚠️ Report-based | ✅ Custom billable rates | ✅ Automated reminders | ✅ Labor cost focus | ❌ |
+| **Avaza** | Cloud SaaS | ✅ Online payment links | ✅ User & Role rates | ✅ Included | ✅ Project progress | ✅ Self-service |
+| **Paymo** | Cloud SaaS | ✅ Integrated payments | ✅ Hourly / Fixed | ✅ Team timesheets | ✅ Task budgeting | ✅ Included |
+| **Scoro** | Cloud SaaS | ✅ Retainers & WIP | ✅ Multilevel billable rates | ✅ Integrated | ✅ Real-time profitability | ✅ Portal |
+| **Zoho Timesheet** | Cloud SaaS | ✅ via Zoho Invoice/Books | ✅ Project / User rates | ✅ Manager Approvals | ✅ Budget variance | ✅ Customer Portal |
+| **Invoice Ninja** | Self-Hosted / OSS | ✅ Advanced Gateway Suite | ✅ Hourly / Fixed billing | ⚠️ User permissions | ⚠️ Task tracking | ✅ Fully Featured |
+| **SolidTime** | Self-Hosted / OSS | ⚠️ CSV / API | ✅ Billable / Non-billable | ⚠️ Org level | ✅ Hourly thresholds | ❌ |
+| **Ever Gauzy** | Self-Hosted / OSS | ✅ Automated billing | ✅ Role & Project rates | ✅ Detailed logs | ✅ Enterprise Financials | ✅ Included |
+| **Kimai** | Self-Hosted / OSS | ✅ Custom Templated Invoices | ✅ Customer / Project / Activity | ✅ Team lead approval | ✅ Budget tracking | ⚠️ Via plugin |
+| **AlgaPSA** | Self-Hosted / OSS | ✅ Peppol / Tax Designer | ✅ Contract PO rates | ✅ Ticket-to-timesheet | ✅ Contract Retainers | ✅ Client Portal |
+| **TimeTracker (DRYTRIX)**| Self-Hosted / OSS | ✅ Peppol & PDF | ✅ Project / Hourly | ❌ Simple timers | ❌ | ❌ |
+
+---
+
+## 🔍 Feature Evaluation Checklist
+
+When selecting between commercial SaaS and open-source timesheet management and project billing solutions, evaluate these operational requirements:
+
+1. **Billing Modality Support:** Does the engine accommodate Fixed-Price milestones, Time & Materials (T&M), Retainers, and Not-to-Exceed (NTE) caps?
+2. **Approval Workflows & Audit Readiness:** Does your organization require dual-signature timesheet approvals (e.g., Project Manager + Resource Manager) and immutable audit trails for compliance (e.g., DCAA, EU CCOO)?
+3. **Multi-Currency & Tax Automation:** Are invoices compatible with regional regulations (such as Peppol e-invoicing in Europe, GST in APAC, or sales taxes across US jurisdictions)?
+4. **Data Sovereignty & Self-Hosting:** Does sensitive client hourly information need to remain on-premises behind a firewall (using tools like Kimai, SolidTime, or AlgaPSA)?
+5. **Ecosystem Integrations:** How cleanly does the platform sync time logs to accounting software (QuickBooks Online, Xero, FreshBooks, NetSuite) and task tools (Jira, GitHub, GitLab, Asana)?
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of an open-source Timesheet Management or Project Billing tool that should be listed here, please open a pull request with:
+Contributions are warmly welcomed! If you maintain or use an open-source Timesheet Management or Project Billing system that isn't listed here:
 
-- Project name and URL
-- Brief description (1–2 sentences)
-- Stack and license
-- Why it stands out
-
-Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source. Note that the open-source ecosystem **splits** between time-tracking-with-invoicing tools (Kimai, TimeTracker) and broader PSA platforms (AlgaPSA). Kimai is the most mature open-source option for time tracking and invoicing, while AlgaPSA offers the deepest billing and contract management features for MSPs.
+1. Fork this repository.
+2. Ensure the software is actively maintained (commits or releases within the past 12 months) and possesses a valid open-source license.
+3. Add the project with proper documentation links, stack info, and GitHub stargazer badge.
+4. Open a Pull Request following standard [GitHub PR guidelines](https://github.com/ishandutta2007/Awesome-Timesheet-Management-Project-Billing/pulls).
 
 ---
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
+This repository is distributed under the [Creative Commons Zero v1.0 Universal](LICENSE) (CC0 1.0) Public Domain Dedication.  
+All third-party trademarks, logos, and project names are the property of their respective owners.
 
----
-
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+<div align="center">
+  <sub>Built with care for engineers, agency leaders, and finance professionals. Star ⭐ this repo if you find it valuable!</sub>
+</div>
