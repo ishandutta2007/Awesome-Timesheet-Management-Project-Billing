@@ -60,9 +60,9 @@ Below is a breakdown of commercial, cloud-hosted Timesheet Management and Projec
 
 ## 🟩 Open-Source Software
 
-Self-hosted, transparent, and community-driven Timesheet Management and Project Billing systems. Sorted in descending order by GitHub star count ⭐.
+Self-hosted, transparent, and community-driven Timesheet Management and Project Billing systems. Sorted in descending order by GitHub Stars_Count ⭐.
 
-| 💻 Software & Repository | ⭐ GitHub Stars | 🛠️ Stack | 🧾 Invoicing Support | 💰 Project Budgeting & Billing | 📜 License | 🚀 Deployment | 💡 Key Highlights |
+| 💻 Software & Repository | ⭐ GitHub_Stars | 🛠️ Stack | 🧾 Invoicing Support | 💰 Project Budgeting & Billing | 📜 License | 🚀 Deployment | 💡 Key Highlights |
 |:---|:---:|:---|:---:|:---:|:---|:---|:---|
 | [**Super Productivity**](https://github.com/super-productivity/super-productivity) | [![Stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers) | TypeScript / Electron / Angular | ❌ (Export only) | ⚠️ (Task-level) | MIT | Desktop / Web / Android | Advanced personal and developer time tracker with Jira, GitLab, and OpenProject bi-directional sync 🔄 |
 | [**ActivityWatch**](https://github.com/ActivityWatch/activitywatch) | [![Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social&color=white)](https://github.com/ActivityWatch/activitywatch/stargazers) | Python / Rust / Vue | ❌ | ❌ | MPL-2.0 | Native Desktop (Win/macOS/Linux) | Automatic, privacy-first background time logging with local window/browser activity categorization 🛡️ |
